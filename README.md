@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="92c7598e5c92dce347419a78c8b7613b.jpg" width="100%">
 
 <!--
 **bobicrafttt/bobicrafttt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="92c7598e5c92dce347419a78c8b7613b.jpg" width="100%">
